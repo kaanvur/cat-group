@@ -1,5 +1,5 @@
 <script>
-	import CatDetector from '$lib/CatDetector3.svelte';
+	import CatDetector from '$lib/CatDetector2.svelte';
 </script>
 
 <CatDetector />
